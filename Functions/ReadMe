@@ -1,0 +1,11 @@
+Functions cover:
+1. Estimate the adjacency matrix
+2. Generate Clusters
+3. Apply forecasting model
+
+Five models:
+1. the proposed GaAC method
+2. ARIMA
+3. GraphVAR
+4. Prophet
+5. DeepAR
